@@ -1,4 +1,4 @@
-# Plaid-with-Multiple-Accounts
+# Plaid API with Multiple Accounts
 This program allows users to calculate and graph summary spend and income for multiple bank accounts using the plaid api. 
 
 An application like this is handy when trying to bridge an individuals total spend/income across multiple bank accounts/credit cards, as looking at the balance and transactions of a single account will not provide the full picture.
